@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piyush Jain
 
-::: {align="center"}
+
 # 🚀 AI/ML Engineer \| Full Stack Developer \| Open Source Enthusiast
 
 Building intelligent products that solve real-world problems.
@@ -104,8 +104,7 @@ Configure GitHub Actions to generate the contribution snake animation.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### ⭐ Thanks for visiting my profile!
 
 *Building the future with AI, one project at a time.*
-:::
