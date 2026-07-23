@@ -62,11 +62,11 @@ AI/ML    : OpenAI • Gemini • TensorFlow • OpenCV
 > Replace **YOUR_USERNAME** with **Piyushjain1857**
 
 ``` md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Piyushjain1857&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight)
 ```
 
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ AI/ML    : OpenAI • Gemini • TensorFlow • OpenCV
 # 🏆 GitHub Trophies
 
 ``` md
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight
+https://github-profile-trophy.vercel.app/?username=Piyushjain1857&theme=tokyonight
 ```
 
 ------------------------------------------------------------------------
