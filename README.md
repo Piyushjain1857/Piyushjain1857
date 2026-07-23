@@ -1,110 +1,121 @@
-# 👋 Hi, I'm Piyush Jain
+<div align="center">
 
+# 👋 Hi there, I'm **Piyush Jain**
+### 🚀 AI/ML Engineer | Full Stack Developer | Open Source Enthusiast
 
-# 🚀 AI/ML Engineer \| Full Stack Developer \| Open Source Enthusiast
+*Building intelligent, production-ready products that solve real-world problems.*
 
-Building intelligent products that solve real-world problems.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://piyush-jain-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/piyushjain1857)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/piyushjain1857/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:piyushjain1857@gmail.com)
-:::
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://piyush-jain-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushjain1857)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piyushjain1857/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjain1857@gmail.com)
 
-------------------------------------------------------------------------
+</div>
 
-# 💫 About Me
+---
 
--   🎓 **B.Tech CSE (AI/ML)** Student
--   📍 Gurugram, India
--   🔭 Currently building **CURIO AI**, **Agro AI**, and an **AI
-    Interview Platform**
--   🌱 Learning **LLMs, AI Agents, Kubernetes, and System Design**
--   💡 Passionate about building AI-powered products that solve
-    real-world problems.
+## 💫 About Me
 
-------------------------------------------------------------------------
+* 🎓 **Education:** B.Tech CSE in Artificial Intelligence & Machine Learning
+* 📍 **Location:** Gurugram, Haryana, India
+* 🔭 **Currently Building:**
+  * **CURIO AI** – Cloud-based adaptive AI quiz platform with intelligent feedback
+  * **Agro AI** – Computer vision & LLM assistant for crop disease detection and smart farming
+  * **AI Interview Platform** – Automated end-to-end interview simulation and scoring system
+* 🌱 **Exploring & Masterclassing:** Large Language Models (LLMs), AI Agents, Kubernetes, & Distributed System Design
+* 💡 **Core Mission:** Transforming complex AI concepts into scalable, user-friendly software solutions.
 
-# 🚀 Featured Projects
+---
 
-## 🎬 Hostel Leave Management System
+## 🚀 Featured Projects
 
-An System to manage Hostel Leaves for Students and Hostel Staff.
+| Project | Description | Key Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **CURIO AI** | Adaptive cloud quiz engine with personalized, AI-driven learning pathways. | `Next.js` `FastAPI` `Python` `MongoDB` |
+| 🌾 **Agro AI** | Deep learning and conversational assistant tailored for agricultural diagnostics. | `Python` `TensorFlow` `FastAPI` `React` |
+| 🎤 **AI Interview Platform** | Real-time automated candidate evaluation platform featuring speech-to-text scoring. | `Next.js` `TypeScript` `Express` `Node.js` |
+| 🎬 **Hostel Leave System** | Streamlined digital workflow platform for institutional student leave management. | `React` `Node.js` `MySQL` `Docker` |
 
-## 🤖 CURIO AI
+---
 
-Cloud-based AI Quiz Platform with adaptive learning.
+## 💻 Tech Stack & Tooling
 
-## 🎤 AI Interview Platform
+<div align="center">
 
-AI-powered interview system with automated evaluation.
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,python,fastapi,tensorflow&perline=10" alt="Languages and Frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,git,github,vscode,linux&perline=10" alt="Tools and Databases" />
 
-## 🌾 Agro AI
+</div>
 
-Crop disease detection and intelligent farming assistant.
+---
 
-------------------------------------------------------------------------
+## 📊 Developer Analytics & Activity
 
-# 💻 Tech Stack
+<div align="center">
 
-``` text
-Frontend : React • Next.js • HTML • CSS • JavaScript
-Backend  : Python • FastAPI • Flask • Node.js
-Database : MySQL • PostgreSQL • MongoDB
-Tools    : Git • Docker • Linux • VS Code
-AI/ML    : OpenAI • Gemini • TensorFlow • OpenCV
-```
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 
-------------------------------------------------------------------------
+<br/><br/> 
 
-# 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=Piyushjain1857&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-> Replace **YOUR_USERNAME** with **Piyushjain1857**
+<br/><br/>
 
-``` md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight)
+### 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Piyushjain1857&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushjain1857&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight)
-```
+</div>
 
-------------------------------------------------------------------------
+---
+<!-- 
+## 🏆 Achievements & Snake Animation
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-``` md
-https://github-profile-trophy.vercel.app/?username=Piyushjain1857&theme=tokyonight
-```
+<img src="https://github-profile-trophy.vercel.app/?username=Piyushjain1857&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
 
-------------------------------------------------------------------------
+<br/><br/>
 
-# 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-Configure GitHub Actions to generate the contribution snake animation.
+</div> -->
 
-------------------------------------------------------------------------
+---
 
-# 📈 Current Goals
+## 🎯 Current Objectives & Roadmap
 
--   ✅ Build production-ready AI applications
--   ✅ Contribute to Open Source
--   ✅ Solve 1000+ LeetCode problems
--   ✅ Master System Design
--   ✅ Learn Cloud & DevOps
+- [x] Architect production-ready AI applications with robust backend services
+- [x] Actively contribute to open-source developer tooling and machine learning repos
+- [x] Solve 1,000+ data structures and algorithms challenges across LeetCode
+- [/] Master distributed backend systems, event-driven microservices, and Kubernetes orchestration
+- [/] Experiment with custom fine-tuning and agentic workflows for enterprise AI models
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
--   Portfolio: https://piyush-jain-portfolio.vercel.app
--   LinkedIn: https://linkedin.com/in/piyushjain1857
--   GitHub: https://github.com/Piyushjain1857
--   Email: piyushjain1857@gmail.com
+<div align="center">
 
-------------------------------------------------------------------------
+[![Portfolio Shield](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://piyush-jain-portfolio.vercel.app)
+[![LinkedIn Shield](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushjain1857)
+[![LeetCode Shield](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/piyushjain1857/)
+[![Gmail Shield](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushjain1857@gmail.com)
 
+<br/>
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Piyushjain1857&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-*Building the future with AI, one project at a time.*
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br/><br/>
+
+*⭐ Thank you for stopping by! Let's build something extraordinary together. ⭐*
+
+</div>
