@@ -60,8 +60,8 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 
 <br/><br/> 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushjain1857&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+updated
+<img src="https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
