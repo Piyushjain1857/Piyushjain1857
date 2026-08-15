@@ -56,12 +56,11 @@
 
 <div align="center">
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/> 
-updated
-<div align="center">
+
 
 <div align="center">
 
@@ -78,7 +77,7 @@ updated
 </div>
 
 ---
-<!-- 
+
 ## 🏆 Achievements & Snake Animation
 
 <div align="center">
@@ -89,7 +88,7 @@ updated
 
 <img src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-</div> -->
+</div>
 
 ---
 
