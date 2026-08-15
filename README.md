@@ -88,7 +88,14 @@
 <br/><br/>
 
 <!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
 
 </div>
 
