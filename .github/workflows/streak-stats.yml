@@ -1,14 +1,22 @@
 name: Update streak stats
 
 on:
+  # Run every day at 03:00 UTC (08:30 AM IST)
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 1 * * *"
 
+  # Allow manual execution from GitHub Actions
+  workflow_dispatch:
+
+  # Run automatically when this workflow file is modified
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
 
-  workflow_dispatch:
+# Prevent multiple streak updates from running simultaneously
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -18,9 +26,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      # 2. Generate streak SVG
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -28,10 +41,23 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. Commit and push generated SVG
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to streak stats"
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
+
+          # Synchronize with the latest main branch
+          git pull --rebase origin main
+
+          # Push updated streak SVG
+          git push origin main
