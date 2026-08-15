@@ -45,7 +45,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,python,fastapi,tensorflow&perline=10" alt="Languages and Frameworks" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,git,github,vscode,linux&perline=10" alt="Tools and Databases" />
 
 </div>
@@ -56,24 +58,27 @@
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  src="./profile/stats.svg"
   alt="Piyush Jain GitHub Stats"
 />
 
+<!-- Top Languages -->
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="./profile/top-langs.svg"
   alt="Piyush Jain Top Languages"
 />
 
-<br/><br/> 
+<br/><br/>
 
-
-<div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img
+  src="./profile/streak.svg"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -81,7 +86,13 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushjain1857&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushjain1857&theme=tokyo-night&hide_border=true"
+  alt="Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
@@ -92,19 +103,32 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy-rust.vercel.app/?username=Piyushjain1857&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+<img
+  src="https://github-profile-trophy-rust.vercel.app/?username=Piyushjain1857&theme=tokyonight&no-frame=true&no-bg=true&row=3&column=6"
+  alt="GitHub Trophies"
+/>
 
 <br/><br/>
 
 <!-- Contribution Snake -->
-<div align="center">
+<picture>
 
-<img
-  src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg"
+  />
 
-</div>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
 
@@ -131,11 +155,17 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Piyushjain1857&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=Piyushjain1857&label=Profile%20Views&color=0e75b6&style=flat-square"
+  alt="Profile Views"
+/>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  alt="Dev Quote"
+/>
 
 <br/><br/>
 
