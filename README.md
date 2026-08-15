@@ -56,8 +56,17 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Piyushjain1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Piyush Jain GitHub Stats"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushjain1857&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Piyush Jain Top Languages"
+/>
 
 <br/><br/> 
 
