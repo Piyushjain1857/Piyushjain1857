@@ -63,8 +63,7 @@
 updated
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight" alt="GitHub Streak" />
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight)](https://git.io/streak-stats)
 <br/><br/>
 
 ### 📈 Contribution Graph
