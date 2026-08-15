@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
 
+
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
