@@ -63,9 +63,14 @@
 updated
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+</div>
 
 <br/>
+
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushjain1857&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
