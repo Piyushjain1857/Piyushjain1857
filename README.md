@@ -82,11 +82,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyushjain1857&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy-rust.vercel.app/?username=Piyushjain1857&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/Piyushjain1857/Piyushjain1857/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
