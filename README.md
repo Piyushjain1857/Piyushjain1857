@@ -61,7 +61,17 @@
 
 <br/><br/> 
 updated
-<img src="https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Piyushjain1857&theme=tokyonight" alt="GitHub Streak" />
+
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushjain1857&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+
+</div>
 
 <br/><br/>
 
